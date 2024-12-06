@@ -1,6 +1,6 @@
 Μία αρχική εφαρμογή , εγκατάσταση βιβλιοθηκών και αρχικοποίηση.
 
-Εκτέλεση στο  codespace   με εντολή  " npm expo start "  
+Εκτέλεση στο  codespaces   με εντολή  " npm expo start "  
 
 εμφανίζει το μήνυμα  " Welcome to the Home Page! "
 
